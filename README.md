@@ -18,3 +18,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 03_spring-boot
 - [Guide: Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3.RELEASE&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=spring-boot&name=spring-boot&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.spring-boot&dependencies=web)
+
+## 04_serving-web-content
+- [Guide: Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3.RELEASE&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=serving-web-content&name=serving-web-content&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.serving-web-content&dependencies=web,thymeleaf,devtools)
