@@ -3,6 +3,11 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/00_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/01_rest-service" />
+    <file type="web" url="file://$PROJECT_DIR$/03_spring-boot" />
+    <file type="web" url="file://$PROJECT_DIR$/04_serving-web-content" />
+    <file type="web" url="file://$PROJECT_DIR$/05_validating-form-input" />
+    <file type="web" url="file://$PROJECT_DIR$/06_testing-web" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />

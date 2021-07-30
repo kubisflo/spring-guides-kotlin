@@ -26,3 +26,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 05_validating-form-input
 - [Guide: Validating Form Input](https://spring.io/guides/gs/validating-form-input/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3.RELEASE&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=validating-form-input&name=validating-form-input&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.validating-form-input&dependencies=web,thymeleaf,validation)
+
+## 06_testing-web
+- [Guide: Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3.RELEASE&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=testing-web&name=testing-web&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.testing-web&dependencies=web)
