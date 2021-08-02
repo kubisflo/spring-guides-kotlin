@@ -30,3 +30,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 06_testing-web
 - [Guide: Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3.RELEASE&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=testing-web&name=testing-web&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.testing-web&dependencies=web)
+
+## 07_handling-form-submission
+- [Guide: Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=handling-form-submission&name=handling-form-submission&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.handling-form-submission&dependencies=web,thymeleaf)
