@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest
 class SmokeTest {
 
     @Autowired
-    private val controller: HomeController? = null
+    private lateinit var controller: HomeController
 
     @Test
     @Throws(Exception::class)
