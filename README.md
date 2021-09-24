@@ -34,3 +34,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 07_handling-form-submission
 - [Guide: Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.3&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=handling-form-submission&name=handling-form-submission&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.handling-form-submission&dependencies=web,thymeleaf)
+
+## 08_securing-web
+- [Guide: Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=securing-web&name=securing-web&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.securing-web&dependencies=web,thymeleaf)
