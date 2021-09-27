@@ -38,3 +38,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 08_securing-web
 - [Guide: Securing a Web Application](https://spring.io/guides/gs/securing-web/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=securing-web&name=securing-web&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.securing-web&dependencies=web,thymeleaf)
+
+## 09_gradle
+- [Guide: Building Java (= Kotlin) Projects with Gradle](https://spring.io/guides/gs/gradle/)
+- [Preconfigured initializer]()
