@@ -41,4 +41,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 
 ## 09_gradle
 - [Guide: Building Java (= Kotlin) Projects with Gradle](https://spring.io/guides/gs/gradle/)
-- [Preconfigured initializer]()
+
+## 10_spring-boot-docker
+- [Guide: Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=spring-boot-docker&name=spring-boot-docker&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.spring-boot-docker&dependencies=web)
