@@ -45,3 +45,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 ## 10_spring-boot-docker
 - [Guide: Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=spring-boot-docker&name=spring-boot-docker&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.spring-boot-docker&dependencies=web)
+
+# 11_accessing-data-mysql
+- [Guide: Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=accessing-data-mysql&name=accessing-data-mysql&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.accessing-data-mysql&dependencies=web,data-jdbc,mysql)
