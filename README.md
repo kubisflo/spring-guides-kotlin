@@ -49,3 +49,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 # 11_accessing-data-mysql
 - [Guide: Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=accessing-data-mysql&name=accessing-data-mysql&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.accessing-data-mysql&dependencies=web,data-jdbc,mysql)
+
+# 12_batch-processing
+- [Guide: Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=batch-processing&name=batch-processing&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.batch-processing&dependencies=batch,hsql)
