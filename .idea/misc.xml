@@ -11,6 +11,7 @@
     <file type="web" url="file://$PROJECT_DIR$/07_handling-form-submission" />
     <file type="web" url="file://$PROJECT_DIR$/08_securing-web" />
     <file type="web" url="file://$PROJECT_DIR$/09_gradle" />
+    <file type="web" url="file://$PROJECT_DIR$/13_consuming-rest" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />

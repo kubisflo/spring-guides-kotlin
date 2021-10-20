@@ -53,3 +53,7 @@ Porting the Guides, written in Java, from spring.io to Kotlin while learning Spr
 # 12_batch-processing
 - [Guide: Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
 - [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=batch-processing&name=batch-processing&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.batch-processing&dependencies=batch,hsql)
+
+# 13_consuming-rest
+- [Guide: Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/)
+- [Preconfigured initializer](https://start.spring.io/#!type=gradle-project&language=kotlin&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=de.kubisflo&artifactId=consuming-rest&name=consuming-rest&description=Demo%20project%20for%20Spring%20Boot&packageName=de.kubisflo.consuming-rest&dependencies=web)
